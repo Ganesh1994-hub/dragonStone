@@ -1,0 +1,4 @@
+TestCases\HomePageTesting.class
+TestCases\AmazonPayPageTestCase.class
+TestCases\LogInTestCase.class
+TestCases\orderpageTestCase.class

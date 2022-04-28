@@ -1,0 +1,8 @@
+Utilities\ExcelSheetDataReader.class
+Pages\OrdersPage.class
+Utilities\SnapShot.class
+Pages\AmazonPayTransactionPage.class
+Pages\Homepage.class
+BaseLayer\TestBase.class
+Pages\Log_in_page.class
+Reporting_Layer\ExtentReporterNG.class
